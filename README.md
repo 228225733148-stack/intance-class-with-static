@@ -1,0 +1,1 @@
+# intance-class-with-static
